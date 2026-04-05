@@ -94,3 +94,11 @@ The dashboard includes interactive slicers for:
 ---
 
 ## 📁 Project Structure
+
+hospital-analytics-dashboard/
+│
+├── images/
+│   └── dashboard.png
+│
+├── HealthCare Survey Project.xlsx
+├── README.md
