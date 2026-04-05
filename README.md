@@ -10,8 +10,7 @@ This project demonstrates strong skills in **Excel dashboard development, data v
 
 ## 📊 Dashboard Preview
 
-![Hospital Dashboard](images/Screenshot 2026-04-05 231105.png)
-
+![Hospital Dashboard](images/dashboard.png)
 ---
 
 ## 🎯 Objectives
